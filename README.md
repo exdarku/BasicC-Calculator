@@ -1,2 +1,2 @@
 # BasicC-Calculator
-Just me learning about C++
+Just me learning C++
